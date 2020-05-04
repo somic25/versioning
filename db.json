@@ -1,6 +1,9 @@
 {
   "BluTune-uC": 
   {
-    "version": "1.4"
+    "schemaVersion": 1,
+    "label": "version",
+    "message": "1.4",
+    "color": "orange"
   }
 }
